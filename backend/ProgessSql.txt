@@ -1,0 +1,10 @@
+postgres://
+apbzkbukoxesur
+:
+23efbfb0dce59377867fd676a2799f5ecd42798c72b12f3b82996bf02962f6b9
+@
+ec2-3-225-41-234.compute-1.amazonaws.com
+:
+5432
+/
+d45g61r5gp1nu0

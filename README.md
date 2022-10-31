@@ -8,7 +8,7 @@ Aplicativo criado na imersão dev React e Spring
 | :rocket: URL         | https://dsmovieph.netlify.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://cursos.alura.com.br/vitrinedev/phelipe-ph25)
 
 ## Detalhes do projeto
 

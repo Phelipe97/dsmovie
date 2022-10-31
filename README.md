@@ -1,8 +1,5 @@
 # dsmovie
 Aplicativo criado na imersão dev React e Spring
-# dsmovie
-
-Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -15,4 +12,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Um site de avaliação de filmes feito na minha primeira experiencia com as tecnologias spring e react.

@@ -1,6 +1,6 @@
 # DsMovie
 Plataforma de avaliação de filmes
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |    |
 | -------------  | --- |
 | :sparkles: Nome        | **Dsmovie**
 | :label: Tecnologias | spring,react (tecnologias utilizadas)

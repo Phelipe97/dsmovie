@@ -12,3 +12,9 @@ Plataforma de avaliação de filmes
 ## Detalhes do projeto
 
 Minha primeira experiencia utilizando as ferramentas spring e react.
+
+<h2>tecnologias usadas</h2>
+<div>
+   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</div>
